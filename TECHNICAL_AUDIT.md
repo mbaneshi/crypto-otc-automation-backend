@@ -632,7 +632,7 @@ The claim of 65% is well-justified but on the high side. 62% is more realistic.
 
 ### Backend - Complete Implementation
 ```
-/Users/nerd/freelancer/01-react-native-mobile-app/backend/
+react-native-mobile-starter/backend/
 ├── src/index.ts (52 LOC) - Properly configured Express server
 ├── src/controllers/auth.controller.ts - Complete auth logic
 ├── src/services/auth.service.ts (80+ LOC) - Email verification, JWT
@@ -645,7 +645,7 @@ The claim of 65% is well-justified but on the high side. 62% is more realistic.
 
 ### Mobile - Partial Implementation
 ```
-/Users/nerd/freelancer/01-react-native-mobile-app/mobile/
+react-native-mobile-starter/mobile/
 ├── src/services/api.service.ts (94 LOC) - Axios with interceptors
 ├── src/services/auth.service.ts (52 LOC) - Auth endpoints
 ├── src/store/slices/authSlice.ts (162 LOC) - Redux auth logic
@@ -663,7 +663,7 @@ The claim of 65% is well-justified but on the high side. 62% is more realistic.
 
 ### Documentation
 ```
-/Users/nerd/freelancer/01-react-native-mobile-app/
+react-native-mobile-starter/
 ├── README.md - Generic (needs project-specific update)
 ├── REQUIREMENTS.md - Comprehensive requirements ✅
 ├── PROJECT_SUMMARY.md - Accurate status overview ✅

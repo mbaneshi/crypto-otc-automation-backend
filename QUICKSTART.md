@@ -13,7 +13,7 @@ Get the OTC Automation Backend running in 5 minutes.
 ### 1. Navigate to Backend Directory
 
 ```bash
-cd /Users/nerd/freelancer/03-otc-automation-backend/backend
+cd crypto-otc-automation-backend/backend
 ```
 
 ### 2. Install Dependencies

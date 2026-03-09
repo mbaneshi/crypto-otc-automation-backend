@@ -179,7 +179,7 @@ This audit was conducted using:
 ## Contact & Support
 
 For questions about this audit:
-- **Report Location:** `/Users/nerd/freelancer/03-otc-automation-backend/`
+- **Report Location:** repo root `crypto-otc-automation-backend/`
 - **Detailed Report:** `TECHNICAL_AUDIT.md`
 - **Quick Summary:** `AUDIT_SUMMARY.txt`
 - **Original Docs:** `README.md`, `ARCHITECTURE.md`, etc.

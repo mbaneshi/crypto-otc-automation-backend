@@ -266,7 +266,7 @@ The following modules need their controllers and service layers implemented:
 ## File Structure
 
 ```
-03-otc-automation-backend/
+crypto-otc-automation-backend/
 ├── backend/
 │   ├── src/
 │   │   ├── main.ts                       ✓ Entry point
